@@ -8,7 +8,7 @@ Este proyecto implementa un sistema de seguimiento de objetos en tiempo real uti
 
 Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes bibliotecas y modelos:
 
-- OpenCV
+- [OpenCV](https://pypi.org/project/opencv-python/)
 - [DeepSort](https://pypi.org/project/deep-sort-realtime/)
 - [Ultralytics YOLO](https://pypi.org/project/ultralytics/)
 
