@@ -14,7 +14,8 @@ Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes b
 
 ## Uso
 
-1. Ejecuta el código proporcionado utilizando Python:
-
+1. Descargar el video people.mp4
+2. Colocar todo en la misma carpeta
+3. Ejecuta el código proporcionado utilizando Python:
    ```bash
    python seguimiento_objetos.py
